@@ -1,0 +1,2 @@
+# wmrusbraspberrypi
+precompiled wmrusb logger
